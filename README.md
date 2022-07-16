@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @BrajkiA
-- 👀 I’m interested in programming
-- 💞️ I’m looking to collaborate on open source projects
+- I’m interested in programming
+- I’m looking to collaborate on open source projects
